@@ -1,0 +1,26 @@
+.cervejas{
+    display: flex;
+    margin-top: 100px;
+}
+
+.h1texto{
+    text-align: center;
+    
+}
+
+.larger img{
+    width: 450px;
+    height: 325px;
+    padding-right: 25px;
+}
+
+.pilsen img{
+    width: 450px;
+    height: 325px;
+    padding-right: 25px;
+}
+
+.porter img{
+    width: 450px;
+    height: 325px;
+}
